@@ -1,5 +1,6 @@
 "PhysFIOData": {
         "PhysGender": "1",
         "PhysSurname": "АЛИМОВ",
-        "PhysName": "ТИМУР"
+        "PhysName": "ТИМУР",
+        "LastName": "ТИМУР"
          },
