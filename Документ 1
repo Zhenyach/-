@@ -15,7 +15,8 @@
       "PhysFIOData": {
         "PhysGender": "1",
         "PhysSurname": "АЛИМОВ",
-        "PhysName": "РИНАТ"
+        "PhysName": "РИНАТ",
+        "LastName": "НАТ"        
          },
       "PhysResidencyData": {
         "PhysResidencyType": "1",
