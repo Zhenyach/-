@@ -2,5 +2,5 @@
         "PhysGender": "1",
         "PhysSurname": "АЛИМОВ",
         "PhysName": "ТИМУР",
-        "LastName": "ТИМУР"
+        "LastName": "АЛИЕВИЧ"
          },
